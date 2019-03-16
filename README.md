@@ -1,6 +1,6 @@
 <h1 align="center">Interface CI</center>
 
-세종대학교 중앙학술동아리 인터페이스 로고
+<h3 align="center">세종대학교 중앙학술동아리 인터페이스 로고</center>
 
 ## 2016
 
