@@ -23,4 +23,4 @@ Black | White
 ## 2021 ~ 현재
 Black | White
 :-----------:|:---------:
-<img src="https://user-images.githubusercontent.com/32587845/160050097-2403a6a9-71ba-497f-a6c8-2d6e0523e883.png" width="600" height="500"/> | <img src="https://user-images.githubusercontent.com/32587845/160050156-ee1b7331-02c8-4efe-a3ba-8f678d6d132e.png" width="600" height="500"/>
+<img src="https://user-images.githubusercontent.com/32587845/160050097-2403a6a9-71ba-497f-a6c8-2d6e0523e883.png" width="600" height="400"/> | <img src="https://user-images.githubusercontent.com/32587845/160050156-ee1b7331-02c8-4efe-a3ba-8f678d6d132e.png" width="600" height="400"/>
